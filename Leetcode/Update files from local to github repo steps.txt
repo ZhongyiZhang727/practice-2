@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "(first/second commit/third action/...)"
+
+git push -f origin master
+
+type in username and password two times
